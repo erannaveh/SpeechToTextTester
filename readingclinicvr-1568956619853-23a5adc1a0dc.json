@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "readingclinicvr-1568956619853",
+  "private_key_id": "23a5adc1a0dc398ac4958fa8a6d68867089e33a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTmyfzEJ1bJzqo\nn72UeOJR4uZMABhaRs42cc/7kFLM3eBPECdJgHNxetZC0XVLkmc9g5ZBjHII+Yff\nlxGTriQZcPWajtekacfJenovFBhFajTvUHd/dbIo83e/jalLXfJkq0f9TwNkKwEQ\nxsx2FRtx8UjxSBBHdbDh8c5d7Q8fuu3zUh6ODXjOUybhY3oaI/bj3yjNOwyK52ZB\nuHttF6yaiPm0PpNaRaQ61uk67N03zHwhjk6EDJsCjWLCd1GBQSN9O/7cFKqi8x9k\nKtf3p5SMFqUAnbBjHfsjvp8H+9JjtOjFVBidUx3vCBud0sIIuEnrmHdhZaDR4Nt2\nMyIdZ0zHAgMBAAECggEAQHrV78uBQfGYIVNuyK4qB6V7/xVHjiBCMuxy86zvTsla\nFI+06dnwFFGZyaSgfbvd17Rk7guBQURoQ5dFuWKoKGj9EWB2+T6wZOZY+7nmhGRJ\n7YUUPpzWkCcTV511qBPJMIrWLuTWUWqr031UkfzUeWjy+VwGqIDUHU+5W7SUF8Ky\nDGuJdCmNtyPEHH4xBktnVGqegVmFXn2oTyQ389E4r+Hyjw4wI3rxCmHonXKDMdip\njGHxwmA4BdHZsddqdVG8eHQTSybWhGstexFP8cfwB5KjRWW+MEVH8QhIy0ZzFsrt\nXVsf7AdEgchlw9H7aBafIUz/8aWiLkh+QzD79406cQKBgQDHpgNW9YLrtICK1yyi\nFiKWSNbCvIP4oWtVFpVK9KY+vqqUKhIv8R04OQF41BlAn1n5Wks1z/uGnwDcPkuP\nJ6JwXyl0tE7ZludwQgqEunoWFvMOO/b/1gt4swgyg1+unFWkiZdjwcAD1ucx1dRq\nhM2ohhFwEi4Xmjgl3GiCkL70rwKBgQC9RLfbp8mH2IGTNjufhllMXNCg1RAdmJqr\nFrD9jfS4QVYwPI8rLXguAm7tnztC7A5dtqS7lCcpq6GiBAEoKnVKjqNdw+zlYPq0\nRdMTRGdlHtDr9UcKfUkW6P+EZ+5JV4aS9wgRJ82mNKnNFZ8CZVyMok4Q4WnGCqFP\nOhC8ZDhfaQKBgCwM2RfKu8Q9406/Az4QHDmEgL4e0g99rizr+qy7JiMZ9pESZ0jk\nrknFaim6woeboUJ/RbDt3tVpJ8twg0Nmv1SD6qWxUuR3g0ElkSSP8HgHQEGXwXvZ\nQlazSc+7ZNUl8U+IfDqqeS9fr0szntaRzr6sNhTALiNPB6xy4SxNu5RJAoGAKyYo\neGZXNqYwXDxn+WVqpFMgqRoJ84Vf9ZNVxGiBmyQiHxsfVKuoE20wlvHPU+F3IPxL\nsAwFpaVgUwxwqxSK6vV73xuUvXKPlVu51FGq9M3CuZiQmp6XdCaoYipDk+rlXkn9\nR9P4OWUWNRAx0R0ErXcvLwAE2kaAIgzN1fVPOMkCgYBngtbzBeh23591FgVfGELj\nz35z9z9Fv0LZiH9nc633y1vnQSUwR/4KpjeQ0UCyX3o15BGDO7t+2guhDpSgcCxm\n6zvKpR34+HbV6WWalZnE877ICROLNsRCFjLP147BmgnVRyDXFmroAH7nCdGYtDai\nIlU1D+7tkTjDX0HmjKDJnA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-s2u4xyhvbypm@readingclinicvr-1568956619853.iam.gserviceaccount.com",
+  "client_id": "116001906893942540094",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-s2u4xyhvbypm%40readingclinicvr-1568956619853.iam.gserviceaccount.com"
+}

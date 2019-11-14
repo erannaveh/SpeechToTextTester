@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B26B8977-547E-4427-DBCB-4B10C2655193}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DictationScript.cs">
+    <Files>
+      <File FileName="Assets/DictationScript.cs" Line="21" Column="59" />
+      <File FileName="Assets/KeyWordRecognizerScript.cs" Line="27" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestSTTLocal" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="DictationScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f43315c-3494-4473-8f3a-a83ea7706ffb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
